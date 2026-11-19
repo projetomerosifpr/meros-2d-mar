@@ -1,2 +1,2 @@
-# meros-2d-mar
-Meros 2D - Fase Mar
+# Mero-Fase-Mar
+Projeto meros fase mar
