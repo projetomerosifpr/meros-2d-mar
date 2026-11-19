@@ -205,6 +205,7 @@ MonoBehaviour:
   speed: 4
   scaredSpeedMultiplier: 0
   notScared: 1
+  diverSound: {fileID: 8236701577514645443}
 --- !u!70 &2318826239705828522
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -312,7 +313,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9a6610d2e704f1648819acc8d7460285, type: 3}
   m_Name: 
   m_EditorClassIdentifier: FMODUnity::FMODUnity.StudioEventEmitter
-  CollisionTag: 
+  CollisionTag: Head
   EventReference:
     Guid:
       Data1: -1465120798
@@ -321,7 +322,7 @@ MonoBehaviour:
       Data4: 1284050320
     Path: event:/Healing
   Event: 
-  EventPlayTrigger: 0
+  EventPlayTrigger: 5
   EventStopTrigger: 0
   AllowFadeout: 1
   TriggerOnce: 0

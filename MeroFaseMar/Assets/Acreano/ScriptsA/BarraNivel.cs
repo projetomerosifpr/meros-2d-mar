@@ -24,6 +24,7 @@ public class BarraNivel : MonoBehaviour
     {
         counter++;
         teste += qntd;
+        Debug.Log(teste);
         transform.localScale = new Vector3(teste*multiply,0.65f,1);
         if(teste>=goal)
         {

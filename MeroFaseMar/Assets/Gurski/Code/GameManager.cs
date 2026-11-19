@@ -53,7 +53,6 @@ public class GameManager : MonoBehaviour
 
     public void Load(string sceneName)
     {
-        Debug.Log(sceneName);
         SceneManager.LoadScene(sceneName);
     }
 

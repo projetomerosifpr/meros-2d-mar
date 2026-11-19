@@ -47,7 +47,6 @@ public class MeroMovement : MonoBehaviour
         {
             escapeCount++;
             codeBarraTap.MoveBarra(1);
-            Debug.Log(escapeCount);
         }
         if(escapeCount >= 5)
         {

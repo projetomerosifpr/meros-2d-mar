@@ -4685,7 +4685,6 @@ MonoBehaviour:
   Mero: {fileID: 1180932541}
   cursor: {fileID: 807606117}
   barraNivel: {fileID: 1733183367}
-  cStt: {fileID: 0}
   operators: 0
   foodEmpty: {fileID: 1268855421}
   waitTime: 0.6
@@ -12690,7 +12689,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7787659404399645463, guid: 9169aca9a1bd42a4a9ce7dc3481cbf4e, type: 3}
       propertyPath: qntd
-      value: 1.6666666
+      value: 1.6667
       objectReference: {fileID: 0}
     - target: {fileID: 7787659404399645463, guid: 9169aca9a1bd42a4a9ce7dc3481cbf4e, type: 3}
       propertyPath: multiply
